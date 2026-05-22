@@ -1,4 +1,4 @@
-# Laravel Inertia Strart 2026 от Ecomsys 
+# Laravel Inertia Strart 2026 by Ecomsys 
 
 ## Tech Stack
 
